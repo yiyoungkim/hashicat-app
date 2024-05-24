@@ -47,6 +47,6 @@ variable "width" {
 }
 
 variable "placeholder" {
-  default     = "https://way-bucket-s3.s3.ap-northeast-2.amazonaws.com/history_image/dto_team.jpeg"
+  default     = "https://way-bucket-s3.s3.ap-northeast-2.amazonaws.com/history_image/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2024-05-24+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+2.09.47.png"
   description = "Image-as-a-service URL. Some other fun ones to try are fillmurray.com, placecage.com, placebeard.it, loremflickr.com, baconmockup.com, placeimg.com, placebear.com, placeskull.com, stevensegallery.com, placedog.net"
 }

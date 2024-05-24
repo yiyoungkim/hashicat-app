@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <div style="width:800px;margin: 0 auto">
 
   <!-- BEGIN -->
-  <center><img src="https://way-bucket-s3.s3.ap-northeast-2.amazonaws.com/history_image/dto_team.jpeg"></img></center>
+  <center><img src="https://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>DTO world!</h2></center>
   Welcome to DTO's app. Replace this text with your own.
   <!-- END -->

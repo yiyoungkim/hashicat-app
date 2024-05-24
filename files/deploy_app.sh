@@ -14,6 +14,7 @@ cat << EOM > /var/www/html/index.html
   <center><img src="https://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>DTO world!</h2></center>
   Welcome to DTO's app. Replace this text with your own.
+  Develop together overnight
   <!-- END -->
 
   </div>
